@@ -8,7 +8,7 @@ and environmental indicators.
 
 ## 👤 Author
 
-**Takunda Manhongo** | Student ID: R2418440
+**Takunda Manhongo**
 BSc Data Science & Systems — University of Zimbabwe
 📧 takundamanhongo16@gmail.com
 🔗 Portfolio: https://takundamanhongo.github.io
